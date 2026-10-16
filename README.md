@@ -1,8 +1,10 @@
-<div align="center">
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4FC08D&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Kevin+%F0%9F%91%8B;Full-stack+Developer;AI+Application+Builder;Spring+Boot+%C2%B7+Vue+%C2%B7+LangChain4j)](https://github.com/kevinclouds)
+<sub>KEVIN ZENG</sub>
 
-</div>
+<h2>Thoughtful code. Useful software.</h2>
+
+<br>
 
 ---
 
