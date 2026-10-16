@@ -2,9 +2,7 @@
 
 <sub>KEVIN ZENG</sub>
 
-<h2>Thoughtful code. Useful software.</h2>
-
-<br>
+<h3>Thoughtful code. Useful software.</h3>
 
 ---
 
